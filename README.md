@@ -1,16 +1,26 @@
-## Hi there 👋
+ # Hi, I'm Sachin Bind
 
-<!--
-**sachinbind09/sachinbind09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student exploring programming and cybersecurity.
 
-Here are some ideas to get you started:
+I am building a strong foundation in programming and databases, and I am working towards a career in ethical hacking. I am currently looking for internship opportunities where I can learn and contribute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming:** C
+- **Databases:** SQL
+- **Tools:** Vs Code, SQL Plus
+- **Currently learning:** Linux, networking basics, cybersecurity fundamentals
+
+## What I'm Working On
+
+- Practicing C programming and data structures
+  - Learning cybersecurity concepts through legal labs and practice platforms
+ 
+## Ethics
+
+All my security practice is done only in legal lab environments and on systems I have permission to test.
+
+## Connect With Me
+
+- LinkedIn:  www.linkedin.com/in/sachin-b-53785b3b4
+- Email: mrsachbind099@gmail.com
