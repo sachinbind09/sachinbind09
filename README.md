@@ -14,7 +14,7 @@ I am building a strong foundation in programming and databases, and I am working
 ## What I'm Working On
 
 - Practicing C programming and data structures
-  - Learning cybersecurity concepts through legal labs and practice platforms
+- Learning cybersecurity concepts through legal labs and practice platforms
  
 ## Ethics
 
